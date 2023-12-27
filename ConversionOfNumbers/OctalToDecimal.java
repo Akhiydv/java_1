@@ -4,7 +4,7 @@ class OctalToDecimal
  public static void main(String args[])
  { 
  Scanner sc=new Scanner(System.in);
- System.out.println("Enter the Octal Number to Decimal...");
+ System.out.println("Enter the Octal Number to convert into Decimal...");
  int octal=sc.nextInt();
  
  int decimal=0;
