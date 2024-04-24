@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-class StringRemove
+class StringSpaceRemove
 {
  public static void main(String args[])
  {
